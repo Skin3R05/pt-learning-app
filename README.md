@@ -1,4 +1,5 @@
 European Portuguese Learning App
+
 About the Project:
 I built a web application to help students practice European Portuguese. The app automatically takes vocabulary from class documents (PDFs) and turns them into fun, interactive games to help users learn and remember words.
 
