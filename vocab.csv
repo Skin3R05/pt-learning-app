@@ -1,0 +1,38 @@
+portuguese,english,part_of_speech,example_pt,example_en
+data,date,noun,Qual é a data de hoje?,What is today's date?
+curso,course,noun,Eu estou a fazer um curso de português.,I am taking a Portuguese course.
+de,of / from,preposition,Este é o livro de Maria.,This is Maria's book.
+português,Portuguese,noun,Eu falo português.,I speak Portuguese.
+nível,level,noun,Qual é o seu nível de português?,What is your Portuguese level?
+nome,name,noun,O meu nome é João.,My name is João.
+professora,teacher (female),noun,A professora é muito simpática.,The teacher is very nice.
+professor,teacher (male),noun,O professor ensina bem.,The teacher teaches well.
+dia,day,noun,Que dia é hoje?,What day is today?
+mês,month,noun,Há doze meses num ano.,There are twelve months in a year.
+ano,year,noun,Feliz Ano Novo!,Happy New Year!
+aprender,to learn,verb,Eu quero aprender português.,I want to learn Portuguese.
+aluno,student (male/general),noun,Ele é um bom aluno.,He is a good student.
+aluna,student (female),noun,Ela é uma aluna nova.,She is a new student.
+aula,lesson / class,noun,A aula começa às nove.,The class starts at nine.
+escrever,to write,verb,Eu gosto de escrever.,I like to write.
+ser,to be (permanent),verb,Eu sou estudante.,I am a student.
+estar,to be (temporary/location),verb,Eu estou em casa.,I am at home.
+ter,to have,verb,Eu tenho um livro.,I have a book.
+fazer,to do / to make,verb,O que vais fazer hoje?,What are you going to do today?
+o,the (masculine singular),article,O livro é meu.,The book is mine.
+a,the (feminine singular),article,A casa é grande.,The house is big.
+um,a / an (masculine singular),article,Eu vi um cão.,I saw a dog.
+uma,a / an (feminine singular),article,Ela tem uma caneta.,She has a pen.
+e,and,conjunction,Eu gosto de ler e escrever.,I like to read and write.
+não,no / not,adverb,Eu não falo alemão.,I do not speak German.
+muito,very / much,adverb,É muito fácil.,It is very easy.
+bom,good (masculine),adjective,Este livro é bom.,This book is good.
+boa,good (feminine),adjective,Tenho uma boa ideia.,I have a good idea.
+obrigado,thank you (said by a male),expression,Obrigado pela ajuda.,Thank you for the help.
+obrigada,thank you (said by a female),expression,Obrigada por vir.,Thank you for coming.
+por favor,please,expression,"Ajuda-me, por favor.","Help me, please."
+olá,hello,expression,"Olá, como estás?","Hello, how are you?"
+adeus,goodbye,expression,"Adeus, até amanhã!","Goodbye, see you tomorrow!"
+dois,two,number,Eu tenho dois irmãos.,I have two brothers.
+flor,flower,noun,Gosto de dar uma flor.,I like to give a flower.
+ponto,point / dot,noun,"Por favor, ponha um ponto final.",Please put a full stop.
